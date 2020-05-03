@@ -59,7 +59,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: #fff !important;
+  color: #0def3f !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -160,15 +160,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #000000 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #10bb5d !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #ff0707;
 }
 
 a:hover, a:focus, a:active {
